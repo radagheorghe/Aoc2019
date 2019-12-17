@@ -1,0 +1,16 @@
+*.exe
+*.pdb
+*.iobj
+*.ipdb
+*.tlog
+*.obj
+*.ipch
+*.db
+*.db
+*.idb
+*.log
+*.ilk
+Day16/.vs/Day16/v16/.suo
+*.db
+*.opendb
+*.db
