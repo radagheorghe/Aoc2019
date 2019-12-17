@@ -40,6 +40,20 @@ public:
     }
   }
 
+  int GetOffset()
+  {
+    int x = 1000000;
+
+    int offset = 0;
+    for (int i = 0; i < 7; i++)
+    {
+      offset += mSignal[i] * x;
+      x = x / 10;
+    }
+
+    return offset;
+  }
+
   const vector<int> & GetSignal()
   {
     return mSignal;
@@ -73,13 +87,16 @@ int main()
 {
   ifstream  myfile;
 
-  myfile.open("..//input.txt");
-  //myfile.open("..//input1.txt");
+  //myfile.open("..//input.txt");
+  myfile.open("..//input1.txt");
     
   string strLine;
   getline(myfile, strLine);
 
   FFT fft(strLine);
+
+  int offset = fft.GetOffset();
+
   fft.Transform(100);
 
   vector<int> signal = fft.GetSignal();
