@@ -1,0 +1,17 @@
+﻿  Day12.cpp
+C:\AoC2019\Day12\Day12\Day12.cpp(178,18): warning C4244: 'initializing': conversion from '_Ty2' to 'int', possible loss of data
+C:\AoC2019\Day12\Day12\Day12.cpp(178,18): warning C4244:         with
+C:\AoC2019\Day12\Day12\Day12.cpp(178,18): warning C4244:         [
+C:\AoC2019\Day12\Day12\Day12.cpp(178,18): warning C4244:             _Ty2=__int64
+C:\AoC2019\Day12\Day12\Day12.cpp(178,18): warning C4244:         ]
+C:\AoC2019\Day12\Day12\Day12.cpp(179,18): warning C4244: 'initializing': conversion from '_Ty2' to 'int', possible loss of data
+C:\AoC2019\Day12\Day12\Day12.cpp(179,18): warning C4244:         with
+C:\AoC2019\Day12\Day12\Day12.cpp(179,18): warning C4244:         [
+C:\AoC2019\Day12\Day12\Day12.cpp(179,18): warning C4244:             _Ty2=__int64
+C:\AoC2019\Day12\Day12\Day12.cpp(179,18): warning C4244:         ]
+C:\AoC2019\Day12\Day12\Day12.cpp(180,18): warning C4244: 'initializing': conversion from '_Ty2' to 'int', possible loss of data
+C:\AoC2019\Day12\Day12\Day12.cpp(180,18): warning C4244:         with
+C:\AoC2019\Day12\Day12\Day12.cpp(180,18): warning C4244:         [
+C:\AoC2019\Day12\Day12\Day12.cpp(180,18): warning C4244:             _Ty2=__int64
+C:\AoC2019\Day12\Day12\Day12.cpp(180,18): warning C4244:         ]
+  Day12.vcxproj -> C:\AoC2019\Day12\Debug\Day12.exe

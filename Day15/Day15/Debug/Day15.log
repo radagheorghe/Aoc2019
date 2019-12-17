@@ -1,0 +1,21 @@
+﻿  Day15.cpp
+C:\AoC2019\Day15\Day15\Day15.cpp(57,39): warning C4244: 'argument': conversion from 'int64' to 'const unsigned int', possible loss of data
+C:\AoC2019\Day15\Day15\Day15.cpp(78,20): warning C4244: 'initializing': conversion from 'int64' to 'int', possible loss of data
+C:\AoC2019\Day15\Day15\Day15.cpp(128,34): warning C4244: 'argument': conversion from 'int64' to 'const unsigned int', possible loss of data
+C:\AoC2019\Day15\Day15\Day15.cpp(129,23): warning C4244: 'argument': conversion from 'int64' to 'const unsigned int', possible loss of data
+C:\AoC2019\Day15\Day15\Day15.cpp(130,38): warning C4244: 'argument': conversion from 'int64' to 'const unsigned int', possible loss of data
+C:\AoC2019\Day15\Day15\Day15.cpp(130,46): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+C:\AoC2019\Day15\Day15\Day15.cpp(130,46): warning C4244:         with
+C:\AoC2019\Day15\Day15\Day15.cpp(130,46): warning C4244:         [
+C:\AoC2019\Day15\Day15\Day15.cpp(130,46): warning C4244:             _Ty=int64
+C:\AoC2019\Day15\Day15\Day15.cpp(130,46): warning C4244:         ]
+C:\AoC2019\Day15\Day15\Day15.cpp(131,28): warning C4244: 'argument': conversion from 'int64' to 'const unsigned int', possible loss of data
+C:\AoC2019\Day15\Day15\Day15.cpp(132,54): warning C4244: 'argument': conversion from 'int64' to 'const unsigned int', possible loss of data
+C:\AoC2019\Day15\Day15\Day15.cpp(132,39): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+C:\AoC2019\Day15\Day15\Day15.cpp(132,39): warning C4244:         with
+C:\AoC2019\Day15\Day15\Day15.cpp(132,39): warning C4244:         [
+C:\AoC2019\Day15\Day15\Day15.cpp(132,39): warning C4244:             _Ty=int64
+C:\AoC2019\Day15\Day15\Day15.cpp(132,39): warning C4244:         ]
+C:\AoC2019\Day15\Day15\Day15.cpp(157,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\AoC2019\Day15\Day15\Day15.cpp(157,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Day15.vcxproj -> C:\AoC2019\Day15\Debug\Day15.exe
